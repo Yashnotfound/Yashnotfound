@@ -1,6 +1,5 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=dank-mono&color=%2353F733&lines=Hi%2C+my+name+is+Yash+Shokeen.;I+code+on+weekdays.)](https://git.io/typing-svg)
-
 <h1 align="center">Hi 👋, I'm Yash Shokeen</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashnotfound&label=Profile%20views&color=0e75b6&style=flat" alt="yashnotfound" /> </p>
 
